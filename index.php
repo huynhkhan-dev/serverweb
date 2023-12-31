@@ -44,7 +44,7 @@
 					</div>
 				</div>
 				<div class="col-lg-6 order-1 order-lg-2">
-					<img src="./assets/img/hero-img.svg" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
+					<img src="./assets/img/logo.svg" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
 				</div>
 			</div>
 		</div>
@@ -55,29 +55,45 @@
 
 				<div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
 					<div class="icon-box">
-						<div class="icon"><i class="bi bi-easel"></i></div>
-						<h4 class="title"><a href="" class="stretched-link">Windows</a></h4>
+						<div class="icon">
+							<a href="./download/hock.zip" download>
+								<img src="assets/img/clients/pc.png" class="img-fluid" alt="">
+							</a>
+						</div>
+						<h4 class="title"><a href="./download/hock.zip" download class="stretched-link">Windows</a></h4>
 					</div>
 				</div><!--End Icon Box -->
 
 				<div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
 					<div class="icon-box">
-					<div class="icon"><i class="bi bi-gem"></i></div>
-					<h4 class="title"><a href="" class="stretched-link">Java</a></h4>
+					<div class="icon">
+						<a href="./download/hock.jar" download>
+							<img src="assets/img/clients/java.png" class="img-fluid" alt="">
+						</a>
+					</div>
+					<h4 class="title"><a href="./download/hock.jar" download class="stretched-link">Java</a></h4>
 					</div>
 				</div><!--End Icon Box -->
 
 				<div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
 					<div class="icon-box">
-					<div class="icon"><i class="bi bi-geo-alt"></i></div>
-					<h4 class="title"><a href="" class="stretched-link">Android</a></h4>
+					<div class="icon">
+						<a href="./download/hock.apk" download>
+							<img src="assets/img/clients/android.png" class="img-fluid" alt="">
+						</a>
 					</div>
+					<h4 class="title"><a href="./download/hock.apk" download class="stretched-link">Android</a></h4>
+				</div>
 				</div><!--End Icon Box -->
 
 				<div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
 					<div class="icon-box">
-					<div class="icon"><i class="bi bi-command"></i></div>
-					<h4 class="title"><a href="" class="stretched-link">iPhone</a></h4>
+					<div class="icon">
+						<a href="./download/hock.ipa" download>
+							<img src="assets/img/clients/iphone.png" class="img-fluid" alt="">
+						</a>
+					</div>
+					<h4 class="title"><a href="./download/hock.ipa"download class="stretched-link">iPhone</a></h4>
 					</div>
 				</div><!--End Icon Box -->
 
